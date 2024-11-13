@@ -3,8 +3,8 @@ This repository contains analysis files for Sexually Transmitted Diseases (STD) 
 
 ## Content
 
-Data Cleaning and Preprocessing: Cleaning variable names, addressing data quality issues such as missing data, duplicated observations, white spaces and inconsistencies, data transformation i.e. converting character variables to factors.
-Visualization: Plotting trends using scatter plot and line charts, Comparing STD cases by disease type and gender using bar plots, Comparing the distribution of STD cases using boxplots and mapping the regions with high STD prevalence.
+* Data Cleaning and Preprocessing: Cleaning variable names, addressing data quality issues such as missing data, duplicated observations, white spaces and inconsistencies, data transformation i.e. converting character variables to factors.
+* Visualization: Plotting trends using scatter plot and line charts, Comparing STD cases by disease type and gender using bar plots, Comparing the distribution of STD cases using boxplots and mapping the regions with high STD prevalence.
 
 ## Tools and Libraries
 
